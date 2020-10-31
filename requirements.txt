@@ -1,0 +1,4 @@
+aioschedule==0.5.2
+asyncio==3.4.3
+discord.py==1.5.1
+python-dotenv==0.15.0
